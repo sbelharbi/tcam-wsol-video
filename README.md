@@ -3,7 +3,7 @@
 Weakly-Labeled Unconstrained Videos`([https://arxiv.
 org/abs/2201.02445](https://arxiv.org/abs/2201.02445))
 
-### [[Video Demo]](https://drive.google.com/drive/folders/1D8DgOdjT35Vf5Tqej3K5ZWFqz3LhgeQt?usp=sharing)
+### See below for demonstrative videos. [[More video demos]](https://drive.google.com/drive/folders/1D8DgOdjT35Vf5Tqej3K5ZWFqz3LhgeQt?usp=sharing)
 
 ### Citation:
 ```
