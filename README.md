@@ -34,9 +34,7 @@ Please create a github issue.
 
 #### <a name='results'> Results</a>:
 
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 <img src="doc/results.png" alt="results" width="600">
 
