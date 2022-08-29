@@ -90,7 +90,6 @@ https://user-images.githubusercontent.com/23446793/187315676-93e4bbb6-4e7c-4cb1-
 https://user-images.githubusercontent.com/23446793/187315661-8f15f290-6938-4092-8b30-7c210e896a39.mp4
 
 
-https://user-images.githhubusercontent.com/23446793/187315583-40b0a4ae-4705-47c9-b7e6-f6b42dee4d1d.mp4
 
 
 https://user-images.githubusercontent.com/23446793/187315646-362762aa-afe1-4cc4-a59f-833432d090b7.mp4
