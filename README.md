@@ -1,7 +1,7 @@
 ### Pytorch 1.11.0 code for:
 `TCAM: Temporal Class Activation Maps for Object Localization in
 Weakly-Labeled Unconstrained Videos`([https://arxiv.
-org/abs/2201.02445](https://arxiv.org/abs/2201.02445))
+org/abs/2201.02445](https://arxiv.org/abs/2208.14542))
 
 ### See below for demonstrative videos. [[More video demos]](https://drive.google.com/drive/folders/1D8DgOdjT35Vf5Tqej3K5ZWFqz3LhgeQt?usp=sharing)
 
@@ -12,7 +12,7 @@ org/abs/2201.02445](https://arxiv.org/abs/2201.02445))
 Weakly-Labeled Unconstrained Videos},
   author={Belharbi, S. and Ben Ayed, I. and McCaffrey, L. and Granger, E.},
   journal={CoRR},
-  volume={abs/1909.03354},
+  volume={abs/2208.14542},
 }
 ```
 
