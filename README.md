@@ -7,14 +7,16 @@ org/abs/2208.14542](https://arxiv.org/abs/2208.14542))
 
 ### Citation:
 ```
-@article{tcamsbelharbi2022,
-  title={TCAM: Temporal Class Activation Maps for Object Localization in
+@InProceedings{tcamsbelharbi2023,
+  title={FTCAM: Temporal Class Activation Maps for Object Localization in
 Weakly-Labeled Unconstrained Videos},
   author={Belharbi, S. and Ben Ayed, I. and McCaffrey, L. and Granger, E.},
-  journal={CoRR},
-  volume={abs/2208.14542},
+  booktitle = {WACV},
+  year={2023}
 }
 ```
+
+
 
 ### Issues:
 Please create a github issue.
