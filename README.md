@@ -3,6 +3,8 @@
 Weakly-Labeled Unconstrained Videos`([https://arxiv.
 org/abs/2208.14542](https://arxiv.org/abs/2208.14542))
 
+### WACV 2023: [[Slides]](https://docs.google.com/presentation/d/1hfGyqGYrz93a6-pH_LGxaDvFzTcFFciL4fIU43UI4Jo/edit?usp=share_link)  [[Poster]](/doc/poster.pdf)
+
 ### See below for demonstrative videos. [[More video demos]](https://drive.google.com/drive/folders/1D8DgOdjT35Vf5Tqej3K5ZWFqz3LhgeQt?usp=sharing)
 
 ### Citation:
